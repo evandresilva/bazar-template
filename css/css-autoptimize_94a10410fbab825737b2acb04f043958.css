@@ -23013,7 +23013,7 @@ body:not(.search-results) .twentysixteen .entry-summary {
   top: 55px;
   left: 20px;
   transform: translateY(-50%);
-  color: #e86c60;
+  color: #0031e2;
   font-size: 18px
 }
 
@@ -31294,7 +31294,7 @@ h1.entry-title {
 }
 
 .elementor-334 .elementor-element.elementor-element-7059da6c>.elementor-element-populated>.elementor-widget-wrap {
-  padding: 0 20%
+  
 }
 
 @media(max-width:1024px) {
@@ -53965,7 +53965,7 @@ a.ui-button:active,
 }
 
 .event_item.type4 .event_thumbnail .img-author a:hover img {
-  border-color: #e86c60
+  border-color: #0031e2
 }
 
 .event_item.type4 .event_thumbnail .el-share-social {
@@ -54146,7 +54146,7 @@ a.ui-button:active,
 }
 
 .event_item.type4 .event_detail .event-meta .event_meta_cat a:hover {
-  background: #e86c60 !important
+  background: #0031e2 !important
 }
 
 .event_item.type4 .event_detail .loop_title {
@@ -54210,7 +54210,7 @@ a.ui-button:active,
 
 .event_item.type4 .event_detail .event-location-time .event-icon i {
   font-size: 18px;
-  color: #e86c60
+  color: #0031e2
 }
 
 .event_item.type4 .event_detail .meta-footer {
@@ -54946,12 +54946,12 @@ a.ui-button:active,
 
 .single-event .act_share .el_form_report .el_row_input button {
   background: 0 0;
-  border: 1px solid #e86c60;
+  border: 1px solid #0031e2;
   display: inline-block;
   border-radius: 4px;
   text-decoration: none;
   outline: none;
-  color: #e86c60;
+  color: #0031e2;
   padding: 10px 18px;
   font-size: 14px;
   line-height: 23px;
@@ -54961,7 +54961,7 @@ a.ui-button:active,
 }
 
 .single-event .act_share .el_form_report .el_row_input button:hover {
-  background: #e86c60;
+  background: #0031e2;
   color: #fff
 }
 
@@ -55142,7 +55142,7 @@ a.ui-button:active,
 }
 
 .single-event .submit-load-more .load-more .lds-spinner div:after {
-  background: #e86c60
+  background: #0031e2
 }
 
 .single-event .schedules_form {
@@ -55191,7 +55191,7 @@ a.ui-button:active,
 
 .single-event .schedules_form .modal-content .time_form-schedules {
   font-weight: 500;
-  color: #e86c60;
+  color: #0031e2;
   margin-bottom: 15px
 }
 
@@ -55230,7 +55230,7 @@ a.ui-button:active,
 }
 
 .single-event .schedules_form .content_schedules .booking_schedules_time {
-  background: #e86c60;
+  background: #0031e2;
   padding: 8px 12px;
   color: #ffff;
   font-size: 13px;
@@ -55252,12 +55252,12 @@ a.ui-button:active,
 }
 
 .single-event .schedules_form .content_schedules .close_schedules_time {
-  color: #e86c60;
+  color: #0031e2;
   background: #fff !important
 }
 
 .single-event .schedules_form .content_schedules .close_schedules_time:hover {
-  color: #e86c60;
+  color: #0031e2;
   background: #fff !important
 }
 
@@ -55369,7 +55369,7 @@ a.ui-button:active,
 }
 
 .single-event .event-single-meta .event-single-cat .event_meta_cat a:hover {
-  background: #e86c60 !important
+  background: #0031e2 !important
 }
 
 .single-event .event-single-meta .content-meta {
@@ -55393,7 +55393,7 @@ a.ui-button:active,
 
 .single-event .event-single-meta .content-meta .item-meta i {
   font-size: 15px;
-  color: #e86c60;
+  color: #0031e2;
   margin-right: 6px
 }
 
@@ -55404,8 +55404,8 @@ a.ui-button:active,
 
 .single-event .event-single-meta .content-meta .event-single-bookmark:hover,
 .single-event .event-single-meta .content-meta .event-single-share:hover {
-  color: #e86c60;
-  border-color: #e86c60
+  color: #0031e2;
+  border-color: #0031e2
 }
 
 .single-event .event-content {
@@ -55442,7 +55442,7 @@ a.ui-button:active,
 }
 
 .single-event .event-single-author .author-event {
-  color: #e86c60
+  color: #0031e2
 }
 
 .single-event .single-event-price-status {
@@ -55453,7 +55453,7 @@ a.ui-button:active,
   font-size: 28px;
   line-height: 1.2;
   font-weight: 500;
-  color: #e86c60;
+  color: #0031e2;
   margin-right: 47px
 }
 
@@ -55907,12 +55907,12 @@ a.ui-button:active,
 .single-event .event_comments .content_comments .commentlists .comment-details .rating .count_star {
   width: 32px;
   height: 32px;
-  border: 1px solid #e86c60;
+  border: 1px solid #0031e2;
   border-radius: 100%;
   display: flex;
   align-items: center;
   justify-content: center;
-  color: #e86c60;
+  color: #0031e2;
   margin-right: 15px
 }
 
@@ -56197,7 +56197,7 @@ a.ui-button:active,
 }
 
 .single-event .ticket-info .item-info-ticket .heading-ticket .wp-price-status .price a:hover {
-  color: #e86c60
+  color: #0031e2
 }
 
 .single-event .ticket-info .item-info-ticket .heading-ticket .wp-price-status .stattus {
@@ -56207,7 +56207,12 @@ a.ui-button:active,
   color: #999;
   border: 1px solid #ccc;
   display: inline-block;
-  padding: 4px 50px 3px
+  padding: 4px 50px 3px;
+  user-select: none;
+}
+
+.stattus:active{
+  background-color: blue;
 }
 
 @media (max-width:767.98px) {
@@ -56325,8 +56330,8 @@ a.ui-button:active,
 }
 
 .single-event .event-tag .wp-link-tag a:hover {
-  border-color: #e86c60;
-  color: #e86c60
+  border-color: #0031e2;
+  color: #0031e2
 }
 
 .single-event .event-taxonomy h3.taxonomy-single-event {
@@ -56352,8 +56357,8 @@ a.ui-button:active,
 }
 
 .single-event .event-taxonomy .wp-link-taxonomy a:hover {
-  border-color: #e86c60;
-  color: #e86c60
+  border-color: #0031e2;
+  color: #0031e2
 }
 
 .single-event .event_map_section #event_map {
@@ -56777,7 +56782,7 @@ a.ui-button:active,
 }
 
 .el-event-venue .event-venue-slide .item-venue .el-content .venue-name a:hover {
-  color: #e86c60
+  color: #0031e2
 }
 
 .el-event-venue .event-venue-slide .item-venue .el-content .count-event {
@@ -56947,7 +56952,7 @@ a.ui-button:active,
 }
 
 .el-menu-event-detail .icon-menu .el-share-social .share-social .share-social-icons li a:hover {
-  color: #e86c60
+  color: #0031e2
 }
 
 .el-menu-event-detail .icon-menu .event-loop-favourite {
@@ -57153,7 +57158,7 @@ a.ui-button:active,
   animation-timing-function: linear;
   transform-origin: 25px 25px;
   will-change: transform;
-  stroke: #e86c60
+  stroke: #0031e2
 }
 
 .elementor_search_map .wrap_search_map .wrap_search #result_search .wrap_load_more .loader circle:nth-of-type(1) {
@@ -57249,7 +57254,7 @@ a.ui-button:active,
 }
 
 .ova_slideshow .elementor-slide-content .elementor-slide-title:hover {
-  color: #e86c60;
+  color: #0031e2;
   transition: .3s ease
 }
 
@@ -57271,7 +57276,7 @@ a.ui-button:active,
 }
 
 .ova_slideshow .elementor-slide-content .elementor-slide-tag a:hover {
-  color: #e86c60;
+  color: #0031e2;
   transition: .3s ease
 }
 
@@ -57316,7 +57321,7 @@ a.ui-button:active,
 }
 
 .ova_slideshow .elementor-slide-content .elementor-slide-bottom .elementor-slide-venue span i {
-  color: #e86c60;
+  color: #0031e2;
   margin-right: 10px;
   font-size: 14px
 }
@@ -57344,7 +57349,7 @@ a.ui-button:active,
 }
 
 .ova_slideshow .elementor-slide-content .elementor-slide-bottom .elementor-slide-date span i {
-  color: #e86c60;
+  color: #0031e2;
   margin-right: 10px;
   font-size: 14px
 }
@@ -57509,12 +57514,12 @@ a.ui-button:active,
 }
 
 .ova_slideshow .owl-dots button span:hover {
-  background-color: #e86c60;
+  background-color: #0031e2;
   transition: .3s ease
 }
 
 .ova_slideshow .owl-dots .active span {
-  background: #e86c60
+  background: #0031e2
 }
 
 .ova_slideshow .elementor-slide-title,
@@ -57562,7 +57567,7 @@ a.ui-button:active,
 }
 
 .el_name_event_slider .wrap_item .item:hover {
-  color: #e86c60;
+  color: #0031e2;
   transition: .3s ease
 }
 
@@ -57577,7 +57582,7 @@ a.ui-button:active,
   left: 0;
   font-size: 17px;
   font-weight: 700;
-  color: #e86c60
+  color: #0031e2
 }
 
 .el_name_event_slider .wrap_item .item .date {
@@ -57694,7 +57699,7 @@ a.ui-button:active,
   margin: 0;
   font-size: 16px;
   line-height: 25px;
-  color: #e86c60
+  color: #0031e2
 }
 
 .cart_detail .cart-content .cart-ticket-info p {
@@ -57793,7 +57798,7 @@ a.ui-button:active,
 }
 
 .cart_detail .cart-content .cart-ticket-info .item-info-ticket .heading-ticket .wp-price-status .price a:hover {
-  color: #e86c60
+  color: #0031e2
 }
 
 .cart_detail .cart-content .cart-ticket-info .item-info-ticket .heading-ticket .wp-price-status .stattus {
@@ -58299,7 +58304,7 @@ a.ui-button:active,
 }
 
 .cart_detail .cart-sidebar .cart-discount-button .form-discount i:hover {
-  color: #e86c60
+  color: #0031e2
 }
 
 .cart_detail .cart-sidebar .cart-discount-button .form-discount .error {
@@ -58956,11 +58961,11 @@ a.ui-button:active,
 }
 
 .vendor_wrap a:hover {
-  color: #e86c60
+  color: #0031e2
 }
 
 .vendor_wrap .active_color {
-  color: #e86c60
+  color: #0031e2
 }
 
 @media (max-width:991.98px) {
@@ -59352,7 +59357,7 @@ a.ui-button:active,
 
 .vendor_wrap span.status .closed {
   background-color: #fff;
-  color: #e86c60
+  color: #0031e2
 }
 
 .vendor_wrap .contents {
@@ -59397,12 +59402,12 @@ a.ui-button:active,
 .vendor_wrap .contents .info-sales li .value {
   font-size: 20px;
   font-weight: 700;
-  color: #e86c60
+  color: #0031e2
 }
 
 .vendor_wrap .contents .info-sales li:hover {
-  background-color: #e86c60;
-  border-color: #e86c60
+  background-color: #0031e2;
+  border-color: #0031e2
 }
 
 .vendor_wrap .contents .info-sales li:hover .value {
@@ -59533,7 +59538,7 @@ a.ui-button:active,
 }
 
 .vendor_wrap .contents .vendor_listing .header_listing ul li.active a {
-  color: #e86c60
+  color: #0031e2
 }
 
 .vendor_wrap .contents .vendor_listing .header_listing ul li a {
@@ -59655,7 +59660,7 @@ a.ui-button:active,
 }
 
 .vendor_wrap .contents .vendor_listing .sales .el-wp-bar .skill-active {
-  background: #e86c60;
+  background: #0031e2;
   text-align: right;
   padding: 5px 0
 }
@@ -59857,7 +59862,7 @@ a.ui-button:active,
 }
 
 .vendor_wrap table tbody.event_body td .action ul li .submit-load-more .load-more .lds-spinner div:after {
-  background: #e86c60
+  background: #0031e2
 }
 
 .vendor_wrap table tbody.event_body td .action ul li:first-child {
@@ -59875,7 +59880,7 @@ a.ui-button:active,
 }
 
 .vendor_wrap table tbody.event_body i {
-  color: #e86c60;
+  color: #0031e2;
   padding-right: 5px
 }
 
@@ -59927,7 +59932,7 @@ a.ui-button:active,
 .event_info .meta_event li i {
   font-weight: 600;
   padding-right: 10px;
-  color: #e86c60
+  color: #0031e2
 }
 
 .report_membership {
@@ -59976,7 +59981,7 @@ a.ui-button:active,
 
 .accounting ul.filter li.active a,
 .accounting ul.filter li.active>span {
-  color: #e86c60
+  color: #0031e2
 }
 
 .accounting ul.filter li.custom {
@@ -61394,7 +61399,7 @@ input.submit_bulk_action {
 }
 
 .vendor_edit_event #mb_calendar .auto .disable_date .remove_disable_date {
-  background: #e86c60;
+  background: #0031e2;
   transition: .4s ease
 }
 
@@ -61431,7 +61436,7 @@ input.submit_bulk_action {
 }
 
 .vendor_edit_event #mb_calendar .auto .schedules_time .remove_schedules_time {
-  background: #e86c60;
+  background: #0031e2;
   transition: .4s ease
 }
 
@@ -61587,7 +61592,7 @@ input.submit_bulk_action {
 }
 
 .manage_tickets .submit-load-more .load-more .lds-spinner div:after {
-  background: #e86c60
+  background: #0031e2
 }
 
 .manage_tickets .button_ticket {
@@ -61618,7 +61623,7 @@ input.submit_bulk_action {
 }
 
 .manage_tickets .button_ticket .submit-load-more .load-more .lds-spinner div:after {
-  background: #e86c60
+  background: #0031e2
 }
 
 .manage_tickets .select2 {
@@ -61647,7 +61652,7 @@ input.submit_bulk_action {
 .manage_tickets .ticket-calendar .date-time .date {
   font-size: 18px;
   font-weight: 500;
-  color: #e86c60;
+  color: #0031e2;
   margin-bottom: 5px
 }
 
@@ -61742,7 +61747,7 @@ input.submit_bulk_action {
 }
 
 .manage_tickets .ticket-calendar .item-calendar-ticket .button_ticket .close-booking {
-  color: #e86c60
+  color: #0031e2
 }
 
 .manage_tickets .ticket-calendar .item-calendar-ticket .ticket_rest {
@@ -61825,7 +61830,7 @@ input.submit_bulk_action {
 }
 
 .content_edit_ticket .close_edit_ticket {
-  color: #e86c60 !important;
+  color: #0031e2 !important;
   float: right;
   display: flex;
   justify-content: flex-end;
@@ -61921,7 +61926,7 @@ input.submit_bulk_action {
 .manage_sale_recurrence .date {
   font-size: 18px;
   font-weight: 500;
-  color: #e86c60;
+  color: #0031e2;
   margin-bottom: 5px
 }
 
@@ -62015,7 +62020,7 @@ input.submit_bulk_action {
 }
 
 .manage_sale_recurrence .date_time_ticket .button_ticket .close_booking {
-  color: #e86c60;
+  color: #0031e2;
   float: right
 }
 
@@ -62043,7 +62048,7 @@ input.submit_bulk_action {
 .manage_sale_recurrence .date_time_schedules .date {
   font-size: 18px;
   font-weight: 500;
-  color: #e86c60;
+  color: #0031e2;
   margin-bottom: 5px
 }
 
@@ -62117,7 +62122,7 @@ input.submit_bulk_action {
 }
 
 .manage_sale_recurrence .date_time_schedules .button_ticket .close_booking {
-  color: #e86c60;
+  color: #0031e2;
   float: right
 }
 
@@ -62363,11 +62368,11 @@ input.submit_bulk_action {
 }
 
 .vendor_sidebar ul.dashboard_nav li:hover a {
-  color: #e86c60
+  color: #0031e2
 }
 
 .vendor_sidebar ul.dashboard_nav li.active a {
-  color: #e86c60
+  color: #0031e2
 }
 
 .vendor_sidebar ul.dashboard_nav li:last-child a {
@@ -62632,7 +62637,7 @@ input.submit_bulk_action {
 }
 
 .wallet_list .withdraw_form .modal-content .form-Withdraw .submit-load-more .load-more .lds-spinner div:after {
-  background: #e86c60
+  background: #0031e2
 }
 
 @media (min-width:991.98px) {
@@ -62847,7 +62852,7 @@ input.submit_bulk_action {
 }
 
 .vendor_wrap .general_tickets .el-wp-bar .skill-active {
-  background: #e86c60;
+  background: #0031e2;
   text-align: right;
   padding: 5px 0
 }
@@ -62939,7 +62944,7 @@ input.submit_bulk_action {
 }
 
 .info_user .contact i {
-  color: #e86c60;
+  color: #0031e2;
   margin-right: 16px
 }
 
@@ -62959,7 +62964,7 @@ input.submit_bulk_action {
 
 .info_user .contact a:hover {
   transition: .3s all ease;
-  color: #e86c60
+  color: #0031e2
 }
 
 .info_user .social {
@@ -62986,11 +62991,11 @@ input.submit_bulk_action {
 
 .info_user .social .social_item a:hover {
   transition: .3s all ease;
-  color: #e86c60
+  color: #0031e2
 }
 
 .info_user .social .social_item a:hover i {
-  color: #e86c60;
+  color: #0031e2;
   transition: .3s all ease
 }
 
@@ -63008,11 +63013,11 @@ input.submit_bulk_action {
   display: flex;
   align-items: center;
   width: fit-content;
-  border: 1px solid #e86c60;
+  border: 1px solid #0031e2;
   border-radius: 4px;
   text-decoration: none;
   outline: none;
-  color: #e86c60;
+  color: #0031e2;
   padding: 10px 18px;
   font-size: 14px;
   line-height: 23px;
@@ -63031,7 +63036,7 @@ input.submit_bulk_action {
 }
 
 .info_user .send_mess:hover {
-  background-color: #e86c60;
+  background-color: #0031e2;
   color: #fff;
   transition: .3s ease
 }
@@ -63067,12 +63072,12 @@ input.submit_bulk_action {
 
 .info_user .el-sendmail-author .submit-sendmail {
   background: 0 0;
-  border: 1px solid #e86c60;
+  border: 1px solid #0031e2;
   display: inline-block;
   border-radius: 4px;
   text-decoration: none;
   outline: none;
-  color: #e86c60;
+  color: #0031e2;
   padding: 10px 18px;
   font-size: 14px;
   line-height: 23px;
@@ -63607,8 +63612,8 @@ input.submit_bulk_action {
   height: 100%;
   width: 150px;
   border-radius: 0 .25rem .25rem 0;
-  background-color: #e86c60;
-  border-color: #e86c60;
+  background-color: #0031e2;
+  border-color: #0031e2;
   color: #fff;
   font-weight: 600;
   font-size: 18px;
@@ -63699,7 +63704,7 @@ input.submit_bulk_action {
 }
 
 .packages_list .item ul li .value {
-  color: #e86c60;
+  color: #0031e2;
   padding-top: 5px;
   display: block;
   font-weight: 600
@@ -63825,7 +63830,7 @@ input.submit_bulk_action {
 }
 
 .el_wrap_site table.venue_table a:hover {
-  color: #e86c60
+  color: #0031e2
 }
 
 .el_wrap_site table.venue_table tbody.event_body>:nth-child(odd) {
@@ -63863,7 +63868,7 @@ input.submit_bulk_action {
 }
 
 .el_wrap_site table.venue_table tbody.event_body i {
-  color: #e86c60;
+  color: #0031e2;
   padding-right: 5px
 }
 
@@ -64403,7 +64408,7 @@ input.submit_bulk_action {
 }
 
 .wrap_search_map .toggle_wrap span:last-child.active {
-  border: 2px solid #e86c60
+  border: 2px solid #0031e2
 }
 
 .wrap_search_map .toggle_wrap span:first-child {
@@ -64411,7 +64416,7 @@ input.submit_bulk_action {
 }
 
 .wrap_search_map .toggle_wrap span:first-child.active {
-  border: 2px solid #e86c60
+  border: 2px solid #0031e2
 }
 
 .wrap_search_map .wrap_search {
@@ -64579,7 +64584,7 @@ input.submit_bulk_action {
   animation-timing-function: linear;
   transform-origin: 25px 25px;
   will-change: transform;
-  stroke: #e86c60
+  stroke: #0031e2
 }
 
 .wrap_search_map .wrap_search .job_filters .wrap_load_more .loader circle:nth-of-type(1) {
@@ -64617,7 +64622,7 @@ input.submit_bulk_action {
   right: 20px;
   top: 50%;
   transform: translateY(-50%);
-  color: #e86c60;
+  color: #0031e2;
   cursor: pointer;
   transition: .3s ease
 }
@@ -64664,7 +64669,7 @@ input.submit_bulk_action {
   border-radius: 100%;
   outline: none;
   background-color: #fff;
-  border-color: #e86c60;
+  border-color: #0031e2;
   border-width: 2px;
   z-index: 1;
   width: 15px;
@@ -64821,7 +64826,7 @@ input.submit_bulk_action {
 
 .wrap_search_map .wrap_search #show_map .iw_map .title a:hover {
   transition: .3s ease;
-  color: #e86c60
+  color: #0031e2
 }
 
 .wrap_search_map .wrap_search #show_map .iw_map .event-time {
@@ -64862,7 +64867,7 @@ input.submit_bulk_action {
 }
 
 .select2-container .select2-dropdown .select2-results__option--highlighted {
-  background-color: #e86c60
+  background-color: #0031e2
 }
 
 .search_page.wrap_form_search,
@@ -66676,7 +66681,7 @@ body.archive .wrap_form_search {
 }
 
 div.wpcf7-response-output {
-  background-color: #e86c60;
+  background-color: #0031e2;
   margin: 20px 0;
   color: #fff;
   border: 2px solid transparent;
@@ -66685,7 +66690,7 @@ div.wpcf7-response-output {
 }
 
 div.wpcf7-mail-sent-ok {
-  background-color: #e86c60;
+  background-color: #0031e2;
   margin: 20px 0;
   color: #fff;
   border: 2px solid transparent;
@@ -66784,7 +66789,7 @@ div.wpcf7-mail-sent-ok {
   content: "";
   width: 30px;
   height: 1px;
-  background: #e86c60
+  background: #0031e2
 }
 
 .ova-login-form-container #user_login,
@@ -66839,8 +66844,8 @@ div.wpcf7-mail-sent-ok {
   font-size: 16px;
   line-height: 26px;
   font-weight: 600;
-  color: #e86c60;
-  border: 2px solid #e86c60;
+  color: #0031e2;
+  border: 2px solid #0031e2;
   border-radius: 3px;
   height: 50px;
   padding: 10px;
@@ -66849,7 +66854,7 @@ div.wpcf7-mail-sent-ok {
 }
 
 .ova-login-form-container p.login-submit #wp-submit:hover {
-  background: #e86c60;
+  background: #0031e2;
   color: #fff
 }
 
@@ -66862,7 +66867,7 @@ div.wpcf7-mail-sent-ok {
 }
 
 .ova-login-form-container .forgot-password:hover {
-  color: #e86c60
+  color: #0031e2
 }
 
 .ova_register_user {
@@ -66888,7 +66893,7 @@ div.wpcf7-mail-sent-ok {
   content: "";
   width: 30px;
   height: 1px;
-  background: #e86c60
+  background: #0031e2
 }
 
 .ova_register_user p.form-row {
@@ -66908,7 +66913,7 @@ div.wpcf7-mail-sent-ok {
   top: 50%;
   left: 20px;
   transform: translateY(-50%);
-  color: #e86c60;
+  color: #0031e2;
   font-size: 18px
 }
 
@@ -66951,7 +66956,7 @@ div.wpcf7-mail-sent-ok {
 }
 
 .ova_register_user .signup-submit .ova-btn {
-  background: #e86c60;
+  background: #0031e2;
   width: 115px;
   height: 50px;
   font-family: Asap;
@@ -66960,14 +66965,14 @@ div.wpcf7-mail-sent-ok {
   font-weight: 600;
   color: #fff;
   border-radius: 3px;
-  border: 2px solid #e86c60;
+  border: 2px solid #0031e2;
   padding: 8px 10px 10px;
   transition: .4s
 }
 
 .ova_register_user .signup-submit .ova-btn:hover {
   background: 0 0;
-  color: #e86c60
+  color: #0031e2
 }
 
 @media (max-width:767px) {
@@ -67258,7 +67263,7 @@ div.wpcf7-mail-sent-ok {
 .ova-feature .ova-media .wp-media i:before {
   margin: 0;
   font-size: 70px;
-  color: #e86c60
+  color: #0031e2
 }
 
 .ova-feature .info .title {
@@ -67312,7 +67317,7 @@ div.wpcf7-mail-sent-ok {
 .ova-feature-2 .ova-media .wp-media i:before {
   margin: 0;
   font-size: 70px;
-  color: #e86c60
+  color: #0031e2
 }
 
 .ova-feature-2 .content .title {
@@ -67333,7 +67338,7 @@ div.wpcf7-mail-sent-ok {
 }
 
 .ova-feature-2 .content .title a:hover {
-  color: #e86c60 !important
+  color: #0031e2 !important
 }
 
 .ova-feature-2 .content .sub-title {
@@ -67775,7 +67780,7 @@ div.wpcf7-mail-sent-ok {
 .ova-skill-bar .cove-killbar .skillbar-bar {
   height: 5px;
   width: 0;
-  background: #e86c60;
+  background: #0031e2;
   border-radius: 10px
 }
 
@@ -67946,7 +67951,7 @@ div.wpcf7-mail-sent-ok {
 .ova-step-plan .number span {
   width: 70px;
   height: 70px;
-  background: #e86c60;
+  background: #0031e2;
   box-shadow: 1px 0px 20px rgba(0, 0, 0, .08);
   font-size: 24px;
   line-height: 28px;
@@ -67977,8 +67982,8 @@ div.wpcf7-mail-sent-ok {
 .ova-step-plan .content .button {
   font-size: 15px;
   line-height: 26px;
-  color: #e86c60;
-  border: 1px solid #e86c60;
+  color: #0031e2;
+  border: 1px solid #0031e2;
   border-radius: 3px;
   display: inline-block;
   padding: 7px 20px 6px;
@@ -67988,7 +67993,7 @@ div.wpcf7-mail-sent-ok {
 
 .ova-step-plan .content .button:hover {
   color: #fff;
-  background: #e86c60
+  background: #0031e2
 }
 
 .ova-menu-acount {
@@ -68022,7 +68027,7 @@ div.wpcf7-mail-sent-ok {
 .ova-menu-acount .login a:hover,
 .ova-menu-acount .register a:hover,
 .ova-menu-acount .my-account a:hover {
-  color: #e86c60
+  color: #0031e2
 }
 
 .ova-menu-acount .my-account img {
@@ -80272,7 +80277,7 @@ body.admin-bar .ovamenu_shrink.active_fixed.text_dark .ova-menu-acount a {
 }
 
 .ovatheme_header_default nav.navbar ul.nav li.active>a {
-  color: #e86c60
+  color: #0031e2
 }
 
 .ovatheme_header_default nav.navbar ul.nav>li:hover>ul.dropdown-menu {
@@ -80362,12 +80367,12 @@ body.admin-bar .ovamenu_shrink.active_fixed.text_dark .ova-menu-acount a {
 }
 
 .ovatheme_header_default nav.navbar ul.dropdown-menu li>a:hover {
-  color: #e86c60
+  color: #0031e2
 }
 
 .ovatheme_header_default nav.navbar ul.dropdown-menu>.active>a {
   background-color: transparent;
-  color: #e86c60
+  color: #0031e2
 }
 
 .ovatheme_header_default nav.navbar ul.dropdown-menu>.active>a:focus,
@@ -80886,8 +80891,8 @@ body.admin-bar .ovamenu_shrink.active_fixed.text_dark .ova-menu-acount a {
 
 .woocommerce .woocommerce-pagination .page-numbers li span.current,
 .woocommerce .woocommerce-pagination .page-numbers li a.current {
-  background-color: #e86c60;
-  border-color: #e86c60;
+  background-color: #0031e2;
+  border-color: #0031e2;
   color: #fff
 }
 
@@ -80895,8 +80900,8 @@ body.admin-bar .ovamenu_shrink.active_fixed.text_dark .ova-menu-acount a {
 .woocommerce .woocommerce-pagination .page-numbers li span:focus,
 .woocommerce .woocommerce-pagination .page-numbers li a:hover,
 .woocommerce .woocommerce-pagination .page-numbers li a:focus {
-  background-color: #e86c60;
-  border-color: #e86c60;
+  background-color: #0031e2;
+  border-color: #0031e2;
   color: #fff
 }
 
@@ -81013,7 +81018,7 @@ body.admin-bar .ovamenu_shrink.active_fixed.text_dark .ova-menu-acount a {
 }
 
 .woocommerce ul.products li.product h2.woocommerce-loop-product__title {
-  color: #e86c60;
+  color: #0031e2;
   margin-bottom: 10px
 }
 
@@ -81026,7 +81031,7 @@ body.admin-bar .ovamenu_shrink.active_fixed.text_dark .ova-menu-acount a {
 }
 
 .woocommerce ul.products li.product .button:hover {
-  background-color: #e86c60;
+  background-color: #0031e2;
   color: #fff
 }
 
@@ -81148,7 +81153,7 @@ body.admin-bar .ovamenu_shrink.active_fixed.text_dark .ova-menu-acount a {
 .woocommerce input.button.alt:disabled:hover,
 .woocommerce input.button.alt:disabled[disabled],
 .woocommerce input.button.alt:disabled[disabled]:hover {
-  background-color: #e86c60
+  background-color: #0031e2
 }
 
 .woocommerce .col2-set .col-1,
@@ -81314,8 +81319,8 @@ article.post-wrap .post-footer .post-readmore-meup a {
 
 article.post-wrap .post-footer .post-readmore-meup a:hover {
   color: #fff;
-  border-color: #e86c60;
-  background: #e86c60
+  border-color: #0031e2;
+  background: #0031e2
 }
 
 .blog_v2 {
@@ -81364,7 +81369,7 @@ article.post-wrap .post-footer .post-readmore-meup a:hover {
 }
 
 .blog_v2 article.post-wrap .post-title h2.post-title a:hover {
-  color: #e86c60
+  color: #0031e2
 }
 
 .blog_v2 article.post-wrap .post-media {
@@ -81499,7 +81504,7 @@ article.post-wrap .post-footer .post-readmore-meup a:hover {
 .single-post article.post-wrap .post-body .qoute-post-meup i:before {
   margin: 0;
   font-size: 50px;
-  color: #e86c60
+  color: #0031e2
 }
 
 .single-post article.post-wrap .post-tag-constrau {
@@ -81920,7 +81925,7 @@ article.post-wrap .post-footer .post-readmore-meup a:hover {
   font-size: 17px;
   margin-top: 4px;
   display: inline-block;
-  color: #e86c60;
+  color: #0031e2;
   transition: .4s
 }
 
@@ -82484,7 +82489,7 @@ article.post-wrap .post-footer .post-readmore-meup a:hover {
   padding: 11px 25px 10px;
   text-transform: unset;
   background-color: transparent;
-  border: 2px solid #e86c60;
+  border: 2px solid #0031e2;
   margin: 0;
   transition: .4s
 }
@@ -82624,7 +82629,7 @@ article.post-wrap .post-footer .post-readmore-meup a:hover {
   padding: 11px 25px 10px;
   text-transform: unset;
   background-color: transparent;
-  border: 2px solid #e86c60;
+  border: 2px solid #0031e2;
   margin: 0;
   transition: .4s
 }
@@ -82766,7 +82771,7 @@ article.post-wrap .post-body .post-excerpt p:last-child:after {
 
 .content_comments .comments ul.commentlists li.pingback .author-name a.comment-edit-link,
 .content_comments .comments ul.commentlists li.trackback .author-name a.comment-edit-link {
-  color: #e86c60;
+  color: #0031e2;
   margin-left: 10px;
   font-weight: 500
 }
@@ -83115,17 +83120,17 @@ Text Domain:  meup-child
 */
 
 :root {
-  --primary: #e86c60;
+  --primary: #0031e2;
   --link: #3d64ff;
   --color-my-account: #3d64ff;
   --button-color-add: #82b440;
-  --button-color-remove: #e86c60;
+  --button-color-remove: #0031e2;
   --button-color-add-cart: #90ba3e;
   --color-error-cart: #f16460;
   --color-rating-color: #ffa800;
   --vendor-sidebar-bgcolor: #343353;
   --vendor-sidebar-color: #fff;
-  --chart-color: #e86c60;
+  --chart-color: #0031e2;
   --vendor-color-one: #343434;
   --vendor-color-two: #666;
   --vendor-color-three: #888;
@@ -83227,24 +83232,24 @@ article.post-wrap .post-meta .post-meta-content a:hover,
 .list-box-wallet .list-payment-menthod .payment_method .title_payment,
 .withdraw_form .modal-content .form-Withdraw .payment_methods_info span,
 .wallet_list .withdraw_form .modal-content .form-Withdraw .withdraw_balance_info span {
-  color: #e86c60
+  color: #0031e2
 }
 
 .ova-event-grid .event_archive .wrap_loader .loader circle {
-  stroke: #e86c60
+  stroke: #0031e2
 }
 
 .ova-blog-slider .owl-nav .owl-prev:hover,
 .ova-blog-slider .owl-nav .owl-next:hover,
 article.post-wrap.sticky,
 .meup-contact-form-1 input[type=submit] {
-  border-color: #e86c60 !important
+  border-color: #0031e2 !important
 }
 
 .ova-blog-slider .owl-nav .owl-prev:hover,
 .ova-blog-slider .owl-nav .owl-next:hover,
 .content_comments .comments .comment-respond .form-submit #submit {
-  border-color: #e86c60 !important
+  border-color: #0031e2 !important
 }
 
 article.post-wrap .post-footer .post-readmore-meup a:hover,
@@ -83264,7 +83269,7 @@ article.post-wrap .post-footer .post-readmore-meup a:hover,
 .woocommerce a.button.alt:hover,
 .woocommerce button.button.alt:hover,
 .woocommerce input.button.alt:hover {
-  border-color: #e86c60
+  border-color: #0031e2
 }
 
 article.post-wrap .post-footer .post-readmore-meup a:hover,
@@ -83300,12 +83305,12 @@ article.post-wrap .post-footer .post-readmore-meup a:hover,
 .woocommerce input.button.alt:hover,
 .general_sales .el-wp-bar .skill-active,
 .single-event .schedules_form .content_schedules .booking_schedules_time {
-  background-color: #e86c60
+  background-color: #0031e2
 }
 
 .meup-contact-form-1 input[type=submit]:hover {
-  background-color: #e86c60;
-  border-color: #e86c60;
+  background-color: #0031e2;
+  border-color: #0031e2;
   color: #fff
 }
 
@@ -83318,11 +83323,11 @@ article.post-wrap .post-footer .post-readmore-meup a:hover,
 }
 
 .ova_social .content a:hover {
-  background-color: #e86c60
+  background-color: #0031e2
 }
 
 .ova-menu-acount .my-account a:hover {
-  color: #e86c60 !important
+  color: #0031e2 !important
 }
 
 .vendor_wrap .contents .vendor_listing .header_listing ul li.active a,
@@ -83394,7 +83399,7 @@ article.post-wrap .post-footer .post-readmore-meup a:hover,
 .ova_register_user .signup-submit .ova-btn:hover,
 .single-event .schedules_form .modal-content .time_form-schedules,
 .event_item.type1 .event_thumbnail .event-loop-favourite.active i {
-  color: #e86c60
+  color: #0031e2
 }
 
 .info_user .send_mess,
@@ -83408,7 +83413,7 @@ article.post-wrap .post-footer .post-readmore-meup a:hover,
 .event_item.type5 .event_detail .el-wp-content .content-event .event_location a:hover,
 .img-author a:hover img,
 .ova-login-form-container p.login-submit #wp-submit {
-  border-color: #e86c60
+  border-color: #0031e2
 }
 
 .act_booking a,
@@ -83425,15 +83430,15 @@ article.post-wrap .post-footer .post-readmore-meup a:hover,
 .single-event .event-banner .gallery-banner .owl-nav button:hover,
 .ova-login-form-container p.login-submit #wp-submit:hover,
 .ova_register_user .signup-submit .ova-btn {
-  background-color: #e86c60;
-  border-color: #e86c60;
+  background-color: #0031e2;
+  border-color: #0031e2;
   color: #fff
 }
 
 .wrap_search_map .wrap_search .search_result .el-pagination ul li span:hover,
 .fc-h-event {
-  background-color: #e86c60 !important;
-  border-color: #e86c60 !important
+  background-color: #0031e2 !important;
+  border-color: #0031e2 !important
 }
 
 .event_meta_cat a:hover,
@@ -83448,7 +83453,7 @@ article.post-wrap .post-footer .post-readmore-meup a:hover,
 #show_map .my-marker,
 .ova-login-form-container h3.title:after,
 .ova_register_user h3.title:after {
-  background-color: #e86c60 !important
+  background-color: #0031e2 !important
 }
 
 .el-wp-content .date-event .wp-date .month,
@@ -83461,7 +83466,7 @@ article.post-wrap .post-footer .post-readmore-meup a:hover,
 .vendor_wrap .contents .table-list-booking .el-export-csv a,
 .vendor_wrap .contents .table-list-ticket .el-export-csv a,
 .single-event .ticket-calendar .item-calendar-ticket .button-book a.un-selling {
-  background-color: #e86c60
+  background-color: #0031e2
 }
 
 .vendor_wrap span.status .opening,
@@ -83493,8 +83498,8 @@ button.el_btn_add,
 .vendor_wrap .contents .vendor_edit_event #mb_coupon .item_coupon .remove_coupon,
 a.button.remove_social,
 button.button.remove_social {
-  background-color: #e86c60;
-  border-color: #e86c60;
+  background-color: #0031e2;
+  border-color: #0031e2;
   color: #fff
 }
 
@@ -83508,7 +83513,7 @@ a.remove_image,
 .accounting ul.filter li.active>span,
 .image_gallery .gallery_item a,
 .vendor_wrap .contents .vendor_edit_event #mb_gallery .image_gallery .gallery_list .gallery_item .change_image_gallery {
-  color: #e86c60
+  color: #0031e2
 }
 
 .cart_detail .cart-sidebar .checkout_button a,

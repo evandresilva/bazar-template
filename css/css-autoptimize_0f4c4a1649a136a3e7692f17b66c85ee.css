@@ -38336,6 +38336,36 @@ a.fc-event:hover {
     margin: 0
 }
 
+.events_elementor_list{
+    display: flex;
+    padding: 25px;
+    flex-wrap: wrap;
+    gap: 30px;
+}
+
+.events_elementor_list .event_item.type1{
+    width: calc(33% - 22px);
+}
+
+@media screen and (max-width: 1200px){
+    .events_elementor_list .event_item.type1{
+        width: calc(50% - 16px);
+    }
+}
+
+@media screen and (max-width: 820px){
+    .events_elementor_list .event_item.type1{
+        width: 100%;
+    }
+
+    .event_item.type1 .event_thumbnail .thumbnail_figure a img {
+        border-radius: 5px 5px 0 0;
+        width: 100%;
+        max-height: 300px;
+        object-fit: cover;
+    }
+}
+
 .event_item.type1 .event_thumbnail {
     position: relative
 }
@@ -38345,7 +38375,8 @@ a.fc-event:hover {
 }
 
 .event_item.type1 .event_thumbnail .thumbnail_figure a img {
-    border-radius: 5px 5px 0 0
+    border-radius: 5px 5px 0 0;
+    width: 100%;
 }
 
 .event_item.type1 .event_thumbnail .event_meta_cat {
@@ -39861,7 +39892,7 @@ a.fc-event:hover {
 
 .single-event .act_share .el_form_report .el_row_input button {
     background: 0 0;
-    border: 1px solid #e86c60;
+    border: 1px solid #0031e2;
     display: inline-block;
     border-radius: 4px;
     text-decoration: none;
@@ -40822,7 +40853,7 @@ a.fc-event:hover {
 .single-event .event_comments .content_comments .commentlists .comment-details .rating .count_star {
     width: 32px;
     height: 32px;
-    border: 1px solid #e86c60;
+    border: 1px solid #0031e2;
     border-radius: 100%;
     display: flex;
     align-items: center;
@@ -41082,6 +41113,10 @@ a.fc-event:hover {
     align-items: center
 }
 
+.ticketQtd{
+    margin-top: 2px;
+}
+
 .single-event .ticket-info .item-info-ticket .heading-ticket .title-ticket i {
     transition: .8s;
     color: #999;
@@ -41122,7 +41157,13 @@ a.fc-event:hover {
     color: #999;
     border: 1px solid #ccc;
     display: inline-block;
-    padding: 4px 50px 3px
+    padding: 4px 50px 3px;
+    user-select: none;
+}
+
+.stattus:active{
+    background-color: blue;
+    color: #fff;
 }
 
 @media (max-width:767.98px) {
@@ -41899,6 +41940,19 @@ a.fc-event:hover {
     padding: 0;
     box-shadow: none;
     margin: 0
+
+}
+
+.events_elementor_search{
+    width: 70%;
+    box-shadow: 0px 0px 7px -2px rgba(0,0,0,0.3);
+    margin: 15px 25px;
+}
+
+@media screen and (max-width: 1200px){
+    .events_elementor_search{
+        width: 100%;
+    }
 }
 
 .elementor_search_form .wrap_form_search.type3 .el_submit_search {
@@ -47923,7 +47977,7 @@ input.submit_bulk_action {
     display: flex;
     align-items: center;
     width: fit-content;
-    border: 1px solid #e86c60;
+    border: 1px solid #0031e2;
     border-radius: 4px;
     text-decoration: none;
     outline: none;
@@ -47982,7 +48036,7 @@ input.submit_bulk_action {
 
 .info_user .el-sendmail-author .submit-sendmail {
     background: 0 0;
-    border: 1px solid #e86c60;
+    border: 1px solid #0031e2;
     display: inline-block;
     border-radius: 4px;
     text-decoration: none;
@@ -49318,7 +49372,7 @@ input.submit_bulk_action {
 }
 
 .wrap_search_map .toggle_wrap span:last-child.active {
-    border: 2px solid #e86c60
+    border: 2px solid #0031e2
 }
 
 .wrap_search_map .toggle_wrap span:first-child {
@@ -49326,7 +49380,7 @@ input.submit_bulk_action {
 }
 
 .wrap_search_map .toggle_wrap span:first-child.active {
-    border: 2px solid #e86c60
+    border: 2px solid #0031e2
 }
 
 .wrap_search_map .wrap_search {
@@ -57806,7 +57860,7 @@ div.wpcf7-mail-sent-ok {
     line-height: 26px;
     font-weight: 600;
     color: #0031e2;
-    border: 2px solid #e86c60;
+    border: 2px solid #0031e2;
     border-radius: 3px;
     height: 50px;
     padding: 10px;
@@ -57926,7 +57980,7 @@ div.wpcf7-mail-sent-ok {
     font-weight: 600;
     color: #fff;
     border-radius: 3px;
-    border: 2px solid #e86c60;
+    border: 2px solid #0031e2;
     padding: 8px 10px 10px;
     transition: .4s
 }
@@ -58944,7 +58998,7 @@ div.wpcf7-mail-sent-ok {
     font-size: 15px;
     line-height: 26px;
     color: #0031e2;
-    border: 1px solid #e86c60;
+    border: 1px solid #0031e2;
     border-radius: 3px;
     display: inline-block;
     padding: 7px 20px 6px;
@@ -73450,7 +73504,7 @@ article.post-wrap .post-footer .post-readmore-meup a:hover {
     padding: 11px 25px 10px;
     text-transform: unset;
     background-color: transparent;
-    border: 2px solid #e86c60;
+    border: 2px solid #0031e2;
     margin: 0;
     transition: .4s
 }
@@ -73590,7 +73644,7 @@ article.post-wrap .post-footer .post-readmore-meup a:hover {
     padding: 11px 25px 10px;
     text-transform: unset;
     background-color: transparent;
-    border: 2px solid #e86c60;
+    border: 2px solid #0031e2;
     margin: 0;
     transition: .4s
 }
