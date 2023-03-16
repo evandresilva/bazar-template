@@ -57188,7 +57188,7 @@ body.elementor-page .elementor-widget-menu-anchor {
     position: fixed;
     z-index: 3;
     top: 0;
-    left: 0;
+    left: -22px;
     background-color: rgba(0, 0, 0, .4);
     overflow-y: auto;
     overflow-x: hidden;
@@ -57334,7 +57334,7 @@ body.elementor-page .elementor-widget-menu-anchor {
         width: 100%
     }
     .ova_nav.canvas_left {
-        left: 0
+        left: -25px;
     }
     .ova_nav.canvas_left ul.menu {
         align-items: flex-start;

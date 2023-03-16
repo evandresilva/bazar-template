@@ -149,23 +149,17 @@
             }
 
             .checkout-button button{
+                width: 200px;
                 border-style: none;
                 border-radius: 4px;
-                color: #0031e2;
+                background-color: #0031e2;
                 cursor: pointer;
                 font-size: 0.8em;
-                border: 1px solid #0031e2;
                 padding: 10px 15px;
                 outline: none;
                 transition: all 0.5s;
-                background: transparent;
-            }
-
-            .checkout-button button:hover{
-                background-color: #0031e2;
                 color: #fff;
             }
-
             .checkout-modal-body .ticket{
                 padding: 20px;
             }
@@ -664,8 +658,8 @@
                                             <div class="coupon_tool_tip"><p class="title-ticket">Normal  (<span  class="ticketQtd" id="normalTicket"> 0</span>)</p></div>
                                             <div class="wp-price-status">
                                                 <p class="price">AOA 5.000</p>
-                                                <span onclick="addTicket('normalTicket')" class="stattus"> Adicionar </span>
-                                                <span onclick="removeTicket('normalTicket')" class="stattus"> Remover </span>
+                                                <span onclick="addTicket('normalTicket')" class="stattus"> <i class="fa-solid fa-plus"></i> </span>
+                                                <span onclick="removeTicket('normalTicket')" class="stattus"> <i class="fa-solid fa-minus"></i> </span>
                                             </div>
                                         </div>
                                         <div class="desc-ticket">
@@ -677,8 +671,8 @@
                                             <div class="coupon_tool_tip"><p class="title-ticket">VIP  (<span class="ticketQtd" id="vipTicket"> 0</span>)</p></div>
                                             <div class="wp-price-status">
                                                 <p class="price">AOA 30.000</p>
-                                                <span onclick="addTicket('vipTicket')" class="stattus"> Adicionar </span>
-                                                <span onclick="removeTicket('vipTicket')" class="stattus"> Remover </span>
+                                                <span onclick="addTicket('vipTicket')" class="stattus"> <i class="fa-solid fa-plus"></i> </span>
+                                                <span onclick="removeTicket('vipTicket')" class="stattus"> <i class="fa-solid fa-minus"></i> </span>
                                             </div>
                                         </div>
                                         <div class="desc-ticket">
@@ -690,8 +684,8 @@
                                             <div class="coupon_tool_tip"><p class="title-ticket">Classe</p>  (<span class="ticketQtd" id="classTicket"> 0</span>)</div>
                                             <div class="wp-price-status">
                                                 <p class="price">AOA 100.000</p>
-                                                <span onclick="addTicket('classTicket')" class="stattus"> Adicionar </span>
-                                                <span onclick="removeTicket('classTicket')" class="stattus"> Remover </span>
+                                                <span onclick="addTicket('classTicket')" class="stattus"> <i class="fa-solid fa-plus"></i> </span>
+                                                <span onclick="removeTicket('classTicket')" class="stattus"> <i class="fa-solid fa-minus"></i> </span>
                                             </div>
                                         </div>
                                         <div class="desc-ticket">
@@ -740,7 +734,6 @@
                                                 <a href="#" target="_blank"><i class="fa-brands fa-instagram"></i> Instagram </a>
                                             </div>
                                         </div>
-                                        <a href="javascript:%20void(0)" class="send_mess"> <i class="fa-regular fa-envelope"></i> Enviar mensagem </a>
                                         <form class="el-sendmail-author">
                                             <input class="input-field" type="text" name="name_customer" value="" placeholder="Name" required />
                                             <input class="input-field" type="text" name="email_customer" placeholder="Email" value="" required />
